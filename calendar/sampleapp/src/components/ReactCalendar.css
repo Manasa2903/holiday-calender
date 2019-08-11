@@ -1,0 +1,55 @@
+
+#btn{
+  border-radius: 4px;
+  width:50%;
+  padding: 1%;
+    background-color: white;
+}
+#btn:hover{
+  background-color: grey;
+  color:black;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    opacity: 0.5;
+}
+#date{
+  text-align: center;
+  margin-bottom: 1%;
+
+}
+#current-date{
+  cursor: default;
+}
+#card{
+    width: 12rem;
+    height: 5rem;
+    background:white;
+    border:0px solid black;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-left: 60px;
+}
+#card:hover{
+  background-color: gainsboro;
+  color:black;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,1.5),0 6px 20px 0 rgba(0,0,0,1.19);
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  margin-left: 40%
+}
+.button1 {border-radius: 8px;
+  background-color: chartreuse;
+}
+
+.button3 {border-radius: 8px;
+  background-color: blueviolet;
+}
